@@ -1,1 +1,2 @@
-[![Video](hyperminimalism.jpg)](hyperminimalism.mp4)
+
+[![Video](https://github.com/joshuacline/joshuacline/raw/refs/heads/main/hyperminimalism.jpg)](https://github.com/joshuacline/joshuacline/raw/refs/heads/main/hyperminimalism.mp4)
